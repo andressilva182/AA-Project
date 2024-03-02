@@ -11,6 +11,7 @@
     <None Include="..\..\Source\AA_ProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -51,6 +52,12 @@
       <Filter>Source\AA_Project</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\AA_Project\AA_ProjectGameMode.h">
+      <Filter>Source\AA_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AA_Project\WorldGenerationManager.cpp">
+      <Filter>Source\AA_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Project\WorldGenerationManager.h">
       <Filter>Source\AA_Project</Filter>
     </ClInclude>
   </ItemGroup>
