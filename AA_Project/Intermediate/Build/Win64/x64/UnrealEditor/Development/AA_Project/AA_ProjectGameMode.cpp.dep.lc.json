@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\source\\aa_project\\aa_projectgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\x64\\aa_projecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aa_project\\definitions.aa_project.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\source\\aa_project\\aa_projectgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\unrealeditor\\inc\\aa_project\\uht\\aa_projectgamemode.generated.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\source\\aa_project\\aa_projectcharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\unrealeditor\\inc\\aa_project\\uht\\aa_projectcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

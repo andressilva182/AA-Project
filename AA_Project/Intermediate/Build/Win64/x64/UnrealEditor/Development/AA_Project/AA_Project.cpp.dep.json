@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\andres pc\\documents\\unreal projects\\aa_project\\source\\aa_project\\aa_project.cpp",
+        "Source": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\source\\aa_project\\aa_project.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\andres pc\\documents\\unreal projects\\aa_project\\intermediate\\build\\win64\\x64\\aa_projecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\x64\\aa_projecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\andres pc\\documents\\unreal projects\\aa_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aa_project\\definitions.aa_project.h",
-            "c:\\users\\andres pc\\documents\\unreal projects\\aa_project\\source\\aa_project\\aa_project.h"
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aa_project\\definitions.aa_project.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\aa\\aa-project\\aa_project\\source\\aa_project\\aa_project.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
