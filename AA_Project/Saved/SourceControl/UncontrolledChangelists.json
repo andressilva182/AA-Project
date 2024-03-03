@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Andres PC/Documents/Unreal Projects/AA_Project/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/Andres PC/Documents/Unreal Projects/AA_Project/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Andres PC/Documents/Unreal Projects/Respositories/AA/AA-Project/AA_Project/Content/Blueprints/WorldGenerationManagerBP.uasset",
+				"C:/Users/Andres PC/Documents/Unreal Projects/Respositories/AA/AA-Project/AA_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W4/TJOJFCPGSKLRD8U9WRLSX2.uasset"
 			]
 		}
 	]
