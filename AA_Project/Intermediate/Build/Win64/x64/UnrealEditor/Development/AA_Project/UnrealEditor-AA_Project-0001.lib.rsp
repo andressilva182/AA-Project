@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AA_Project-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\AA_ProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_Project.init.gen.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_ProjectCharacter.gen.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_ProjectGameMode.gen.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\WorldGenerationManager.gen.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_Project.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_ProjectCharacter.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\AA_ProjectGameMode.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\WorldGenerationManager.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\Default.rc2.res"
+/OUT:"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\AA\AA-Project\AA_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\AA_Project\UnrealEditor-AA_Project-0001.lib"

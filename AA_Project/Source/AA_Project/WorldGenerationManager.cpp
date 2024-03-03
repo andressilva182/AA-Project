@@ -15,7 +15,8 @@ AWorldGenerationManager::AWorldGenerationManager()
 void AWorldGenerationManager::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	StartGeneration();
+
 }
 
 // Called every frame
@@ -23,5 +24,13 @@ void AWorldGenerationManager::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+}
+
+void AWorldGenerationManager::StartGeneration()
+{
+	FVector* RandomPosition = new FVector(1, 1, 1);
+	FString Message = "Testing Vector  " + RandomPosition->ToString();
+
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, Message);
 }
 
